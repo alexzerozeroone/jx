@@ -2,7 +2,7 @@
 javascript-site-scripts
 
 # what is this
-just exploits for websites, go on the website and paste the code in the console by pressing CTRL+SHIFT+I or F12.
+just some fun exploits for websites, go on the website and paste the code in the console by pressing CTRL+SHIFT+I or F12.
 
 # list
 
