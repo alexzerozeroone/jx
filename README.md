@@ -2,7 +2,7 @@
 javascript-site-scripts are just some fun exploits for websites, go on the website and paste the code in the console by pressing CTRL+SHIFT+I or F12.
 
 # how do I use this
-go (here)[https://github.com/random-development-hub/jss/branches] and choose the website. everything for that website should be featured in the README.md, if not please consider making an issue
+go [here](https://github.com/random-development-hub/jss/branches) and choose the website. everything for that website should be featured in the README.md, if not please consider making an issue
 remember to press on the branch's title.
 
 # I have made a script for a website
