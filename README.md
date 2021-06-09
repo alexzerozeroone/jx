@@ -7,3 +7,16 @@ remember to press on the branch's title.
 
 # I have made a script for a website
 create an issue with **script** tag and I will look at it, I am very active on github.
+
+# list
+
+denied scripts:
+> xss
+> ddos or damaging the website
+> laggers
+> game cheats (multiplayer)
+> malware
+
+accepted scripts:
+> anything that doesn't include in denied scripts
+> game cheats (singleplayer)
