@@ -1,4 +1,4 @@
-# [script list](#list)
+# [Accepted and denied scripts list](#List)
 # jss
 javascript-site-scripts are just some fun exploits for websites, go on the website and paste the code in the console by pressing CTRL+SHIFT+I or F12.
 
@@ -8,19 +8,14 @@ Go [here](https://github.com/random-development-hub/jss/branches) and choose the
 # I have made a script for a website
 Create an issue and follow the new script template.
 
-# list
-Denied scripts:
-> xss
-> 
-> ddos or damaging the website
-> 
-> laggers
-> 
-> game cheats (multiplayer)
-> 
-> malware
+# Script denial and acceptance
+  - #### Denied scripts:
+    - xss
+    - ddos or anything that lags the website
+    - permanent changes to the website
+    - game cheats (multiplayer)
+    - malware
 
-Accepted scripts:
-> anything that doesn't fit in denied scripts
-> 
-> game cheats (singleplayer)
+  - #### Accepted scripts:
+    - anything that doesn't fit in denied scripts
+    - game cheats (singleplayer)
