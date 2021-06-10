@@ -1,7 +1,7 @@
-# How to use
+# How to
 Go [here](https://github.com/random-development-hub/jss/branches) and choose the website. Everything for that website should be covered in the README.md, if not please consider making an issue with the fix script template.
 
-# I have made a script for a website
+# New scripts
 Create an issue and follow the new script template.
 
 # Script denial and acceptance
