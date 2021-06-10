@@ -9,7 +9,9 @@ SCRIPT FILE NAME: example.js
 SCRIPT DOES: changes **x** so you can **y**
 SCRIPT SOURCE:
 ```
-post script here if it's small
-or attach the .js file 
-or a github link to your repo/fork
+
+console.log("Delete this line and paste your code inside the 3 graves (```) if  the script source is small.");
+
 ```
+Else attach the .js file or paste a github link of the file which is supposed to be in your repo/fork.
+Dropbox, Mediafire or any alike services aren't allowed and will be marked as malware/phising.
