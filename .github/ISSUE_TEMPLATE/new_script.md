@@ -9,5 +9,7 @@ SCRIPT FILE NAME: example.js
 SCRIPT DOES: changes **x** so you can **y**
 SCRIPT SOURCE:
 ```
-post script here if it's small, either attach the .js file or a github link to your repo/fork
+post script here if it's small
+or attach the .js file 
+or a github link to your repo/fork
 ```

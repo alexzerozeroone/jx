@@ -9,5 +9,7 @@ SCRIPT FILE NAME: example.js
 BUG: **x** wasn't working correctly
 SCRIPT FIX SOURCE:
 ```
-post script here if it's small, either attach the .js file or a github link to your repo/fork
+post script here if it's small
+or attach the .js file 
+or a github link to your repo/fork
 ```
