@@ -3,7 +3,7 @@
 # Scripts:
 
 - [auto-response.js](show-response.js)
+  
+  ### Script that auto selects the right answer
 
-- [set-points.js](set-points.js)
-
-- [show-response.js](show-response.js)
+  
