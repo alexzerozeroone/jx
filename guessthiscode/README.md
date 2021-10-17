@@ -2,4 +2,4 @@
 
 # Scripts:
 
-### [auto-response.js](show-response.js) - Script that automatically selects the right answer
+### [autoResponse.js](autoResponse.js) - Script that automatically selects the right answer
