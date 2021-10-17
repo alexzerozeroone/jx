@@ -3,5 +3,3 @@
 # Scripts:
 
 ### [comment.js](comment.js) - Script that comments without user input
-  
-  
