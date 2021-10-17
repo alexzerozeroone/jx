@@ -2,8 +2,5 @@
 
 # Scripts:
 
-- [auto-response.js](show-response.js)
+- [auto-response.js](auto-response.js)
 
-- [set-points.js](set-points.js)
-
-- [show-response.js](show-response.js)
