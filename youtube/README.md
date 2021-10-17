@@ -2,8 +2,8 @@
 
 # Scripts:
 
-- [comment.js](comment.js)
-  
-  ### Script made for commenting without user input
+1. ### [comment.js](comment.js)
+
+  #### Script made for commenting without user input
   
   
