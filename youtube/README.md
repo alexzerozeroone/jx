@@ -2,4 +2,4 @@
 
 # Scripts:
 
-### [comment.js](comment.js) - Script that comments without user input (must currently be on a video)
+### [comment.js](comment.js) - Script that comments without user input
